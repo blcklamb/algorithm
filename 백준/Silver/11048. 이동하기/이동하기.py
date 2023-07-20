@@ -1,3 +1,7 @@
+import sys
+input = sys.stdin.readline
+
+
 def solution():
     N, M = map(int, input().split())
     roomInfo = [[0 for _ in range(M+1)]]
