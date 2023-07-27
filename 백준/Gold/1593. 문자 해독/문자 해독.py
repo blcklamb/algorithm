@@ -1,5 +1,3 @@
-# https://www.acmicpc.net/problem/1593
-
 from collections import Counter
 
 wLength, sLength = map(int, input().split())
@@ -22,7 +20,6 @@ for idx in range(0, sLength - wLength + 1):
         if slicedCounter[s[idx-1]] == 0:
             del slicedCounter[s[idx-1]]
         if slicedCounter == wCounter:
-            slicedCounter = wCounter.copy()
             answer += 1
 
 print(answer)
