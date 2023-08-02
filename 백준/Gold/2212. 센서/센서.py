@@ -1,6 +1,3 @@
-import sys
-input = sys.stdin.readline
-
 N = int(input())
 K = int(input())
 sensorList = sorted(list(map(int, input().split())))
