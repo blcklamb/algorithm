@@ -1,10 +1,11 @@
 function solution(price) {
-    if (price >= 500_000){
-        return parseInt(price * 0.8)
-    } else if (price >= 300_000){
-        return parseInt(price * 0.9)
-    } else if (price >= 100_000){
-        return parseInt(price * 0.95)
+    let answer = price
+    const priceAndDiscount = [[100_000, 5], [300_000, 10], [500_000, 20]]
+
+    for (const discountInfo of priceAndDiscount){
+        const [range, percentage] = discountInfo
+        if (price < range) break
+        answer = parseInt(price * (100 - percentage) * 0.01)
     }
-    return price;
+    return answer
 }
