@@ -5,3 +5,7 @@ function solution(a, b) {
     const BA = parseInt(B + A)
     return AB >= BA ? AB : BA;
 }
+
+// function solution(a, b) {
+    // return Math.max(Number(`${a}${b}`), Number(`${b}${a}`))
+// }
