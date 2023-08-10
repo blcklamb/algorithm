@@ -1,4 +1,3 @@
-# https://www.acmicpc.net/problem/10971
 
 N = int(input())
 W = []
@@ -10,8 +9,8 @@ for _ in range(N):
 minByStartCity = [float('inf') for _ in range(N)]
 
 
-def circuitByStartCity(current, visited, answer):
-    global W, minAnswer, start
+def circuitByStartCity(current, visited, answer, start):
+    global W, minAnswer
 
     if visited.count(True) == N:
         if W[current][start] != 0:
@@ -25,18 +24,18 @@ def circuitByStartCity(current, visited, answer):
         if W[current][i] == 0:
             continue
 
+        if minAnswer < answer + W[current][i]:
+            return
+
         visited[i] = True
-        answer += W[current][i]
-        circuitByStartCity(i, visited, answer)
+        circuitByStartCity(i, visited, answer+W[current][i], start)
         visited[i] = False
-        answer -= W[current][i]
 
 
 for i in range(N):
     minAnswer = float('inf')
     visited = [False if j != i else True for j in range(N)]
-    start = i
-    circuitByStartCity(i, visited, 0)
+    circuitByStartCity(i, visited, 0, i)
     minByStartCity[i] = minAnswer
 
 
