@@ -1,10 +1,6 @@
-function solution(n) {
-    var answer = [n];
-    while (true){
-        const lastEle = answer[answer.length -1] 
-        if (lastEle === 1) break
-        if (lastEle % 2 === 0) answer.push(lastEle/2); 
-        else answer.push(lastEle * 3 +1)
-    }
-    return answer;
+function solution(n, arr = []) {
+    arr.push(n)
+    if (n === 1) return arr
+    if (n % 2 === 0) return solution(n / 2, arr)
+    return solution(3 * n + 1, arr)
 }
