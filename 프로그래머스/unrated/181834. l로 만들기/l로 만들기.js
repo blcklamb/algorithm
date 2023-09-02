@@ -1,3 +1,29 @@
 function solution(myString) {
-    return [...myString].map(ele => (ele < 'l') ? 'l':ele).join('');
+  return [...myString].map((ele) => (ele < "l" ? "l" : ele)).join("");
 }
+// 결과
+```
+'평균 시간: 5.442ms'
+'평균 메모리: 36.973MB'
+'최고 시간: 9.57ms'
+'최저 시간: 0.84ms'
+'최고 메모리: 39.1MB'
+'최저 메모리: 33.7MB'
+'시간 표준 편차: 22.884'
+'메모리 표준 편차: 20.381'
+```;
+
+// 우수 코드
+const solution = (myString) => myString.replace(/[a-k]/g, "l");
+
+// 결과
+```
+'평균 시간: 4.068ms'
+'평균 메모리: 35.200MB'
+'최고 시간: 6.92ms'
+'최저 시간: 0.42ms'
+'최고 메모리: 36.1MB'
+'최저 메모리: 33.4MB'
+'시간 표준 편차: 18.265'
+'메모리 표준 편차: 13.821'
+```;
