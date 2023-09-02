@@ -1,15 +1,4 @@
 function solution(picture, k) {
-  // var answer = [];
-  // picture.forEach(row => {
-  //     for (let i = 0; i < k; i++){
-  //         let basicRow = '';
-  //         [...row].forEach(cell => {
-  //             basicRow += cell.repeat(k)
-  //         })
-  //         answer.push(basicRow)
-  //     }
-  // })
-  // return answer;
   return picture.reduce((a, b) => {
     for (let i = 0; i < k; i++) {
       a.push([...b].map((ele) => ele.repeat(k)).join(""));
@@ -28,4 +17,28 @@ function solution(picture, k) {
 '최저 메모리: 33.4MB'
 '시간 표준 편차: 0.315'
 '메모리 표준 편차: 7.068'
+```;
+function solution(picture, k) {
+  var answer = [];
+  picture.forEach((row) => {
+    for (let i = 0; i < k; i++) {
+      let basicRow = "";
+      [...row].forEach((cell) => {
+        basicRow += cell.repeat(k);
+      });
+      answer.push(basicRow);
+    }
+  });
+  return answer;
+}
+// 결과
+```
+'평균 시간: 0.310ms'
+'평균 메모리: 33.571MB'
+'최고 시간: 0.92ms'
+'최저 시간: 0.08ms'
+'최고 메모리: 34.2MB'
+'최저 메모리: 33.4MB'
+'시간 표준 편차: 0.261'
+'메모리 표준 편차: 7.055'
 ```;
