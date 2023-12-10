@@ -1,6 +1,6 @@
-# baekjoonhub-algorithm
+# algorithm
 
-- 백준, 프로그래머스에서 푼 문제를 정리합니다.
+- 백준, 프로그래머스, leetcode에서 푼 문제를 정리합니다.
 - Using [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
 
 # 폴더 구조
@@ -14,7 +14,8 @@
 │      ├──javascript
 │      └──python
 ├──백준
-└──프로그래머스
+├──프로그래머스
+└──leetcode
 ```
 
 # 목표
