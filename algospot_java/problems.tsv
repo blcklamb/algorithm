@@ -1,0 +1,98 @@
+chapter	id	title	url	status	reason
+1	FESTIVAL	록 페스티벌	https://algospot.com/judge/problem/read/FESTIVAL	ready	
+6	BOARDCOVER	게임판 덮기	https://algospot.com/judge/problem/read/BOARDCOVER	ready	
+6	BOGGLE	보글 게임	https://algospot.com/judge/problem/read/BOGGLE	ready	
+6	CLOCKSYNC	시계 맞추기	https://algospot.com/judge/problem/read/CLOCKSYNC	ready	
+6	PICNIC	소풍	https://algospot.com/judge/problem/read/PICNIC	ready	
+7	FANMEETING	팬미팅	https://algospot.com/judge/problem/read/FANMEETING	ready	
+7	FENCE	울타리 잘라내기	https://algospot.com/judge/problem/read/FENCE	ready	
+7	QUADTREE	쿼드 트리 뒤집기	https://algospot.com/judge/problem/read/QUADTREE	ready	
+8	ASYMTILING	비대칭 타일링	https://algospot.com/judge/problem/read/ASYMTILING	ready	
+8	JLIS	합친 LIS	https://algospot.com/judge/problem/read/JLIS	ready	
+8	JUMPGAME	외발뛰기	https://algospot.com/judge/problem/read/JUMPGAME	ready	
+8	LIS	최대 증가 부분 수열	https://algospot.com/judge/problem/read/LIS	ready	
+8	NUMB3RS	두니발 박사의 탈옥	https://algospot.com/judge/problem/read/NUMB3RS	ready	
+8	PI	원주율 외우기	https://algospot.com/judge/problem/read/PI	ready	
+8	POLY	폴리오미노	https://algospot.com/judge/problem/read/POLY	ready	
+8	QUANTIZE	Quantization	https://algospot.com/judge/problem/read/QUANTIZE	ready	
+8	SNAIL	장마가 찾아왔다	https://algospot.com/judge/problem/read/SNAIL	ready	
+8	TILING2	타일링 방법의 수 세기	https://algospot.com/judge/problem/read/TILING2	ready	
+8	TRIANGLEPATH	삼각형 위의 최대 경로	https://algospot.com/judge/problem/read/TRIANGLEPATH	ready	
+8	TRIPATHCNT	삼각형 위의 최대 경로 개수 세기	https://algospot.com/judge/problem/read/TRIPATHCNT	ready	
+8	WILDCARD	와일드 카드	https://algospot.com/judge/problem/read/WILDCARD	ready	
+9	BLOCKGAME	블록 게임	https://algospot.com/judge/problem/read/BLOCKGAME	ready	
+9	DRAGON	드래곤 커브	https://algospot.com/judge/problem/read/DRAGON	ready	
+9	GENIUS	지니어스	https://algospot.com/judge/problem/read/GENIUS	ready	
+9	KLIS	k번째 최대 증가 부분 수열	https://algospot.com/judge/problem/read/KLIS	ready	
+9	MORSE	모스 부호 사전	https://algospot.com/judge/problem/read/MORSE	ready	
+9	NUMBERGAME	숫자 게임	https://algospot.com/judge/problem/read/NUMBERGAME	ready	
+9	OCR	광학 문자 인식	https://algospot.com/judge/problem/read/OCR	ready	
+9	PACKING	여행 짐 싸기	https://algospot.com/judge/problem/read/PACKING	ready	
+9	RESTORE	실험 데이터 복구하기	https://algospot.com/judge/problem/read/RESTORE	ready	
+9	SUSHI	회전초밥	https://algospot.com/judge/problem/read/SUSHI	ready	
+9	TICTACTOE	틱택토	https://algospot.com/judge/problem/read/TICTACTOE	ready	
+9	ZIMBABWE	웨브바짐	https://algospot.com/judge/problem/read/ZIMBABWE	ready	
+10	LUNCHBOX	도시락 데우기	https://algospot.com/judge/problem/read/LUNCHBOX	ready	
+10	MATCHORDER	출전 순서 정하기	https://algospot.com/judge/problem/read/MATCHORDER	ready	
+10	MINASTIRITH	미나스 아노르	https://algospot.com/judge/problem/read/MINASTIRITH	ready	
+10	STRJOIN	문자열 합치기	https://algospot.com/judge/problem/read/STRJOIN	ready	
+11	ALLERGY	알러지가 심한 친구들	https://algospot.com/judge/problem/read/ALLERGY	ready	
+11	BOARDCOVER2	게임판 덮기 2	https://algospot.com/judge/problem/read/BOARDCOVER2	ready	
+11	KAKURO2	카쿠로	https://algospot.com/judge/problem/read/KAKURO2	ready	
+11	TSP3	TSP3	https://algospot.com/judge/problem/read/TSP3	ready	
+12	ARCTIC	남극 기지	https://algospot.com/judge/problem/read/ARCTIC	ready	
+12	CANADATRIP	캐나다 여행	https://algospot.com/judge/problem/read/CANADATRIP	ready	
+12	DARPA	DARPA Grand Challenge	https://algospot.com/judge/problem/read/DARPA	ready	
+12	WITHDRAWAL	수강 철회	https://algospot.com/judge/problem/read/WITHDRAWAL	ready	
+13	FOSSIL	꽃가루 화석	https://algospot.com/judge/problem/read/FOSSIL	ready	
+13	LOAN	전세금 균등상환	https://algospot.com/judge/problem/read/LOAN	ready	
+13	RATIO	승률 올리기	https://algospot.com/judge/problem/read/RATIO	ready	
+13	ROOTS	단변수 다항 방정식의 수치적 해법	https://algospot.com/judge/problem/read/ROOTS	ready	
+13	UVA10385	철인 2종 경기	https://onlinejudge.org/external/103/10385.pdf	ready	
+14	PASS486	비밀번호 486	https://algospot.com/judge/problem/read/PASS486	ready	
+14	POTION	마법의 약	https://algospot.com/judge/problem/read/POTION	ready	
+15	NERDS	너드인가, 너드가 아닌가?	https://algospot.com/judge/problem/read/NERDS	ready	
+15	PINBALL	핀볼 시뮬레이션	https://algospot.com/judge/problem/read/PINBALL	ready	
+15	TREASURE	보물섬	https://algospot.com/judge/problem/read/TREASURE	ready	
+16	GRADUATION	졸업 학기	https://algospot.com/judge/problem/read/GRADUATION	ready	
+17	CHRISTMAS	크리스마스 인형	https://algospot.com/judge/problem/read/CHRISTMAS	ready	
+18	JOSEPHUS	조세푸스 문제	https://algospot.com/judge/problem/read/JOSEPHUS	ready	
+19	BRACKETS2	짝이 맞지 않는 괄호	https://algospot.com/judge/problem/read/BRACKETS2	ready	
+19	ITES	외계 신호 분석	https://algospot.com/judge/problem/read/ITES	ready	
+20	HABIT	말버릇	https://algospot.com/judge/problem/read/HABIT	ready	
+20	JAEHASAFE	재하의 금고	https://algospot.com/judge/problem/read/JAEHASAFE	ready	
+20	NAMING	작명하기(접두사/접미사)	https://algospot.com/judge/problem/read/NAMING	ready	
+20	PALINDROMIZE	팰린드롬 만들기	https://algospot.com/judge/problem/read/PALINDROMIZE	ready	
+21	FORTRESS	요새	https://algospot.com/judge/problem/read/FORTRESS	ready	
+21	TRAVERSAL	트리 순회 순서 변경	https://algospot.com/judge/problem/read/TRAVERSAL	ready	
+22	INSERTION	삽입 정렬 뒤집기	https://algospot.com/judge/problem/read/INSERTION	ready	
+22	NERD2	너드인가, 너드가 아닌가? 2	https://algospot.com/judge/problem/read/NERD2	ready	
+23	RUNNINGMEDIAN	변화하는 중간 값	https://algospot.com/judge/problem/read/RUNNINGMEDIAN	ready	
+24	FAMILYTREE	족보 탐험	https://algospot.com/judge/problem/read/FAMILYTREE	ready	
+24	MEASURETIME	삽입 정렬 시간 재기	https://algospot.com/judge/problem/read/MEASURETIME	ready	
+24	MORDOR	등산로	https://algospot.com/judge/problem/read/MORDOR	ready	
+25	EDITORWARS	에디터 전쟁	https://algospot.com/judge/problem/read/EDITORWARS	ready	
+26	NH	보안종결자	https://algospot.com/judge/problem/read/NH	ready	
+26	SOLONG	안녕히, 그리고 물고기는 고마웠어요!	https://algospot.com/judge/problem/read/SOLONG	ready	
+28	DICTIONARY	고대어 사전	https://algospot.com/judge/problem/read/DICTIONARY	ready	
+28	GALLERY	감시 카메라 설치	https://algospot.com/judge/problem/read/GALLERY	ready	
+28	MEETINGROOM	회의실 배정	https://algospot.com/judge/problem/read/MEETINGROOM	ready	
+28	WORDCHAIN	단어 제한 끝말잇기	https://algospot.com/judge/problem/read/WORDCHAIN	ready	
+29	CHILDRENDAY	어린이날	https://algospot.com/judge/problem/read/CHILDRENDAY	ready	
+29	HANOI4	하노이의 탑	https://algospot.com/judge/problem/read/HANOI4	ready	
+29	HANOI4B	하노이의 탑	https://algospot.com/judge/problem/read/HANOI4B	unavailable	공식 문제 링크가 HTTP 404를 반환함
+29	SORTGAME	Sorting Game	https://algospot.com/judge/problem/read/SORTGAME	ready	
+30	DRUNKEN	음주 운전 단속	https://algospot.com/judge/problem/read/DRUNKEN	ready	
+30	FIRETRUCKS	소방차	https://algospot.com/judge/problem/read/FIRETRUCKS	ready	
+30	NTHLON	철인 N종 경기	https://algospot.com/judge/problem/read/NTHLON	ready	
+30	PROMISES	선거 공약	https://algospot.com/judge/problem/read/PROMISES	ready	
+30	ROUTING	신호 라우팅	https://algospot.com/judge/problem/read/ROUTING	ready	
+30	TIMETRIP	시간여행	https://algospot.com/judge/problem/read/TIMETRIP	ready	
+31	LAN	근거리 네트워크	https://algospot.com/judge/problem/read/LAN	ready	
+31	TPATH	여행 경로 정하기	https://algospot.com/judge/problem/read/TPATH	ready	
+32	BISHOPS	비숍	https://algospot.com/judge/problem/read/BISHOPS	ready	
+32	MATCHFIX	승부 조작	https://algospot.com/judge/problem/read/MATCHFIX	ready	
+32	TRAPCARD	함정 설치	https://algospot.com/judge/problem/read/TRAPCARD	ready	
+32		국책 사업		unavailable	공식 문제 페이지 준비중
+32		도난당한 조각상		unavailable	공식 문제 페이지 준비중
+32		마일리지로 여행하기		unavailable	공식 문제 페이지 준비중
